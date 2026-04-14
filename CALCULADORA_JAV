@@ -1,6 +1,7 @@
 //Hola, esta es una prueba del grupo 10, espero le guste
 //Inspirado en Java y Eclipse
 import java.util.Scanner;
+
 public class Main 
 {
 	public static void main(String[] args) 
