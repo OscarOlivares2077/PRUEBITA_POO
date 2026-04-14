@@ -1,11 +1,17 @@
-//Hola, esta es una prueba del grupo 10, espero le guste
-//Inspirado en Java y Eclipse
+
+//Conflicto Corregido de Grupo 10
+
 import java.util.Scanner;
 
 public class Main 
-{
+
+//Hola, esta es una prueba del grupo 10, espero le guste
+//Inspirado en Java y Eclipse
+
+System.out.println("opcion no valida");
 	public static void main(String[] args) 
 	{
+		System.out.println("ESTA ES UNA CALCULADORA GRUPO 10");
 		Scanner num = new Scanner(System.in);
 		System.out.println("Ingrese el primer numero: ");
 		double numero1 = num.nextDouble();
